@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "543351650833",
+    "firebase_url": "https://entranceexam-94cd9.firebaseio.com",
+    "project_id": "entranceexam-94cd9",
+    "storage_bucket": "entranceexam-94cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543351650833:android:53a139a7aa9c710b",
+        "android_client_info": {
+          "package_name": "com.entranceexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543351650833-799vnpv32h5ppdco50pesirojhq519rv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entranceexam",
+            "certificate_hash": "32430ff11e76ef8502ab8c030e3e7520af48bcae"
+          }
+        },
+        {
+          "client_id": "543351650833-o27pkh88ebl39j8m9ptta7qsfjit05ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82b55vhV6D2HlJhSZI18GAHoR3rrcq0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543351650833-o27pkh88ebl39j8m9ptta7qsfjit05ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
